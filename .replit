@@ -1,0 +1,2 @@
+language = "go"
+run = "go run day1/part2.go"
